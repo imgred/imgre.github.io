@@ -1,0 +1,6 @@
+h1 {font-family: 'Roboto Mono', monospace;text-align: center;color: #20CE20;}
+.nav-bar {display: flex;justify-content: center;font-family: 'Source Code Pro'}
+a {margin: 0 10px;}
+.bout-me {display: table-cell; vertical-align: middle; text-align: center;
+     line-height: 1.5; font-size: 20px;}
+#card{border:1px solid red;margin:180px;background: #cdcdcd;}
